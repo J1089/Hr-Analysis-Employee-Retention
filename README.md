@@ -12,24 +12,24 @@ This project focuses on analyzing employee retention within an organization, usi
 ## Key Performance Indicators (KPIs)
 
 1. **Average Attrition Rate for All Departments**  
-   **Description**: Calculate the average attrition rate across all departments to identify departments with higher turnover.  
+   **Description**: Calculated the average attrition rate across all departments to identify departments with higher turnover.  
   
 2. **Average Hourly Rate of Male Research Scientists**  
-   **Description**: Determine the average hourly wage for male employees with the job title "Research Scientist."  
+   **Description**: Determined the average hourly wage for male employees with the job title "Research Scientist."  
   
 3. **Attrition Rate vs. Monthly Income Statistics**  
-   **Description**: Analyze the relationship between attrition rates and employee monthly income levels.  
+   **Description**: Analyzed the relationship between attrition rates and employee monthly income levels.  
   
 
 4. **Average Working Years for Each Department**  
-   **Description**: Calculate the average number of years employees have worked for the organization, segmented by department.  
+   **Description**: Calculated the average number of years employees have worked for the organization, segmented by department.  
    
 5. **Job Role vs. Work-Life Balance**  
-   **Description**: Compare the work-life balance scores for different job roles within the company.  
+   **Description**: Compared the work-life balance scores for different job roles within the company.  
    
 
 6. **Attrition Rate vs. Years Since Last Promotion**  
-   **Description**: Investigate the relationship between the attrition rate and the number of years since an employee's last promotion.  
+   **Description**: Analysed the relationship between the attrition rate and the number of years since an employee's last promotion.  
    
 
 ---
