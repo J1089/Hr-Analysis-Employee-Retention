@@ -5,6 +5,9 @@
 This project focuses on analyzing employee retention within an organization, using key metrics such as attrition rates, hourly wage comparisons, work-life balance, and the relationship between promotions and employee turnover. The goal is to uncover patterns that will help the organization reduce attrition and foster a more supportive work environment.
 
 ---
+## Live Interactive Dashboard
+[HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDA0ZGI4N2MtMmZjZC00ZWE5LWJhY2QtYzhjMzk0YTgyZGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ## Key Performance Indicators (KPIs)
 
